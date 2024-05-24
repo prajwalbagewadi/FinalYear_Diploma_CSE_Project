@@ -1,0 +1,6 @@
+open command window
+
+go to code/jar file path
+
+java -jar HeuristicOptOnDemandCmplx.jar
+
